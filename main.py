@@ -1,4 +1,4 @@
 print("Bebas Aja")
 
-print("Ini Perubahan dari Pycharm ya")
+print("Ini Perubahan dari Pycharm")
 print("perubahan git")
